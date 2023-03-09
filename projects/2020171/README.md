@@ -5,7 +5,7 @@
 
 ## Email: [p20oiko@ionio.gr](https://webmail.ionio.gr/?_task=mail&_mbox=INBOX)
 
-## Οργανισμός:
+## Οργανισμός:[Ranger-Power](https://github.com/Ranger-Power)
 
 ## [GitHub Profile](https://github.com/p20oiko)
 
@@ -16,8 +16,8 @@
 | Εβδομάδα | [Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς](https://epidrome.github.io/teaching/deliverables/) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile) και μαζί με αυτόν εδώ τον πίνακα περιεχομένων | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://epidrome.github.io/teaching/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://epidrome.github.io/teaching/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/sw/master/README.md), [συγγραφή της εισαγωγής](https://epidrome.github.io/teaching/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/sw/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | [σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1187) |Επιτυχής συγγραφή εισαγωγής, δημιουργίας φορκ και προσθήκης πίνακα περιεχομένων |
-| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[σύνδεσμος]() |Ολοκλήρωση άσκησης γραμμής εντολών σε λογισμικό με systemd |
-| 3 | Γραμμή εντολών (no systemd) | | |
+| 2 | [Γραμμή εντολών](https://epidrome.github.io/teaching/cli) (systemd) και [διαδικασία συνεργασίας με pull request στον οργανισμό της ομάδας σας](https://epidrome.github.io/teaching/team) |[σύνδεσμος](https://github.com/courses-ionio/sw/discussions/1286) |Ολοκλήρωση άσκησης γραμμής εντολών σε λογισμικό με systemd |
+| 3 | Γραμμή εντολών (no systemd) |[σύνδεσμος]() |Ολοκλήρωση εγκατάστασης Alpine Linux σε Εικονική Μηχανή |
 | 4 | Κατασκευή του βιβλίου Α2 (συνεργατικά) | | |
 | 5 | Συμμετοχικό περιεχόμενο A1 + A2 | | |
 | 6 | Γραμμή εντολών (no systemd, custom static blog generator) | | |
@@ -57,3 +57,15 @@
 [Asciinema installation](https://asciinema.org/docs/installation)
 
 [Idle time settings](https://github.com/asciinema/asciinema-server/issues/136)
+
+## Παραδοτέο 3 - Γραμμή Εντολών χωρίς Systemd
+Για την υλοποίηση του τρίτου παραδοτέου εγκαταστάθηκε μία διανομή των Linux σε VirtualBox η οποία δεν έχει systemd αλλά opernrc. Ειδικότερα έγινε installation των Alpine Linux, τα οποία είναι αρκετά ασφαλή και δεν δεσμεύουν μεγάλο μέρος της μνήμης. Παρακάτω φαίνεται η υλοποίηση της εντολής neofetch μέσω τερματικού χρησιμοποιώντας το Asciinema.
+
+<a href="https://asciinema.org/a/565498" target="_blank"><img src="https://asciinema.org/a/565498.svg" /></a>
+
+
+
+# Σύνδεσμοι
+[Alpine](https://alpinelinux.org/about/)
+
+[Installation](https://wiki.alpinelinux.org/wiki/Installation)
